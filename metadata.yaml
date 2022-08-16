@@ -1,0 +1,45 @@
+_repo: Some-eminent-Victorians-Personal-recollections-in-the-world-of-art-and-letters_68526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carr, J. Comyns (Joseph Comyns)
+    aliases:
+    - Carr, Joseph Comyns
+    - Carr, Joseph William Comyns
+    - Carr, J. W. Comyns (Joseph William Comyns)
+    - Comyns-Carr, J. (Joseph)
+    birthdate: 1849
+    deathdate: 1916
+    gutenberg_agent_id: '53983'
+    url: http://www.gutenberg.org/2009/agents/53983
+    wikipedia: https://en.wikipedia.org/wiki/J._Comyns_Carr
+description: ''
+gutenberg_issued: '2022-07-15'
+identifiers:
+  gutenberg: '68526'
+  lccn: w09000193
+language: en
+pgterms:marc904: https://archive.org/details/someeminentvicto00carr/page/n7/mode/2up
+pgterms:marc905: 20201017082710carr
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United Kingdom :Duckworth & Co.,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Great Britain -- Intellectual life -- 19th century'
+- !lcsh 'Art, Victorian'
+- !lcsh 'English literature -- 19th century'
+- GITenberg
+tableOfContents: Introductory -- Idle hours -- Essays in journalism -- The Bar --
+  Dante Gabriel Rossetti -- Edward Burne-Jones -- Millais and Leighton -- Frederick
+  Walker -- Design and engraving -- The Grosvenor Gallery and the New Gallery -- Whistler
+  and Cecil Lawson -- Art journalism -- Orators -- Some Victorian poets -- A younger
+  generation -- Men of the theatre -- Social hours -- Some foreign actors -- The work
+  of the theatre.
+title: 'Some eminent Victorians: Personal recollections in the world of art and letters'
+url: http://www.gutenberg.org/ebooks/68526
